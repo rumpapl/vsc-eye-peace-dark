@@ -1,6 +1,6 @@
 {
-  "name": "customize-chai-dark-theme",
-  "displayName": "Customize Chai Dark-Theme",
+  "name": "vsc-eyepeace-theme",
+  "displayName": "Eye Peace Theme",
   "description": "",
   "version": "0.0.1",
   "engines": {
@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Customized-Chai-Dark",
+        "label": "eye-peace",
         "uiTheme": "vs-dark",
-        "path": "./themes/customized-chai-dark.json"
+        "path": "./themes/eye-peace-theme.json"
       }
     ]
   }
